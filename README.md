@@ -1,2 +1,2 @@
 # logging-behaviour
-Built-in logging behaviour used in BackendJS
+Logging behaviour to be used in BeamJS applications
